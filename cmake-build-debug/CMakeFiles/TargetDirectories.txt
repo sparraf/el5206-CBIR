@@ -1,0 +1,4 @@
+/home/sparra/Desktop/uchile/2018-2/Lab Inteligencia/ProyectoImagenes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sparra/Desktop/uchile/2018-2/Lab Inteligencia/ProyectoImagenes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sparra/Desktop/uchile/2018-2/Lab Inteligencia/ProyectoImagenes/cmake-build-debug/CMakeFiles/processDB.dir
+/home/sparra/Desktop/uchile/2018-2/Lab Inteligencia/ProyectoImagenes/cmake-build-debug/CMakeFiles/proyectoImagenes.dir

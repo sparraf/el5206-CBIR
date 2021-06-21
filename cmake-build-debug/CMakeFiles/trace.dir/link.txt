@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtrace.a  CMakeFiles/trace.dir/processDatabase.cpp.o
+/usr/bin/ranlib libtrace.a

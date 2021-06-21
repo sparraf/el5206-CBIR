@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfeatVect.a  CMakeFiles/featVect.dir/src/processDatabase.cpp.o
+/usr/bin/ranlib libfeatVect.a
